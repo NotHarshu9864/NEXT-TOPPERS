@@ -1,4 +1,5 @@
 {
+  "subject": "Chemistry",
   "lectures": [
     {
       "title": "Matter in Our Surroundings Lecture - 1",
@@ -71,49 +72,49 @@
       "notes": "#"
     },
     {
-      "title": "Atoms and Molecules L-5",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://stream.mux.com/9c0000Nbz1nvSPumGNH9cgwI2BV019BxLsbbXmGERi8jfg.m3u8",
+      "title": "Atoms and Molecules Lecture - 5",
+      "play": "https://player-harsh.netlify.app/player?link=https://stream.mux.com/9c0000Nbz1nvSPumGNH9cgwI2BV019BxLsbbXmGERi8jfg.m3u8",
       "notes": "#"
     },
     {
-      "title": "Atoms and Molecules L-6",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4524327/175560794035392764802/index_5.m3u8",
+      "title": "Atoms and Molecules Lecture - 6",
+      "play": "https://player-harsh.netlify.app/player?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4524327/175560794035392764802/index_5.m3u8",
       "notes": "#"
     },
     {
-      "title": "Structure of Atom L-1",
+      "title": "Structure of Atom Lecture - 1",
       "play": "https://youtu.be/-d-MPErQgeg",
       "notes": "#"
     },
     {
-      "title": "Structure of Atom L-2",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4558544/175872880118032764802/index_5.m3u8",
+      "title": "Structure of Atom Lecture - 2",
+      "play": "https://player-harsh.netlify.app/player?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4558544/175872880118032764802/index_5.m3u8",
       "notes": "#"
     },
     {
-      "title": "Structure of Atom L-3",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4562576/175914945226312764802/index_5.m3u8",
+      "title": "Structure of Atom Lecture - 3",
+      "play": "https://player-harsh.netlify.app/player?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4562576/175914945226312764802/index_5.m3u8",
       "notes": "#"
     },
     {
-      "title": "Structure of Atom L-4",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4563691/175923640497642764802/index_5.m3u8",
+      "title": "Structure of Atom Lecture - 4",
+      "play": "https://player-harsh.netlify.app/player?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4563691/175923640497642764802/index_5.m3u8",
       "notes": "#"
     },
     {
-      "title": "Structure of Atom L-5",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4564912/175933350312692764802/index_5.m3u8",
+      "title": "Structure of Atom Lecture - 5",
+      "play": "https://player-harsh.netlify.app/player?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4564912/175933350312692764802/index_5.m3u8",
       "notes": "#"
     },
     {
-      "title": "Structure of Atom L-6",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4569452/175975474724542764802/index_5.m3u8",
+      "title": "Structure of Atom Lecture - 6",
+      "play": "https://player-harsh.netlify.app/player?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4569452/175975474724542764802/index_5.m3u8",
       "notes": "#"
     },
     {
       "title": "Structure of Atom Doubt",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4570632/175983983054822764802/index_5.m3u8",
+      "play": "https://player-harsh.netlify.app/player?link=https://d274dp7v20n4nf.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4570632/175983983054822764802/index_5.m3u8",
       "notes": "#"
     }
   ]
-}
+    }
