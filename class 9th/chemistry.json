@@ -1,40 +1,30 @@
-{
-  "subject": "Chemistry",
-  "chapters": [
-    {
-      "title": "Matter in Our Surroundings Lecture - 1",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4373763/174653575278717555169/174653575278717555169_7555169.m3u8",
-      "notes": "#"
-    },
-    {
-      "title": "Matter in Our Surroundings Lecture - 2",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4375004/174663371989087555169/174663371989087555169_7555169.m3u8",
-      "notes": "#"
-    },
-    {
-      "title": "Matter in Our Surroundings Lecture - 3",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4379021/174705453261387555169/174705453261387555169_7555169.m3u8",
-      "notes": "#"
-    },
-    {
-      "title": "Matter in Our Surroundings Lecture - 4",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4380507/174714048756637555169/174714048756637555169_7555169.m3u8",
-      "notes": "#"
-    },
-    {
-      "title": "Matter in Our Surroundings Doubt Solving",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4381981/174723737820747555169/174723737820747555169_7555169.m3u8",
-      "notes": "#"
-    },
-    {
-      "title": "Is Matter Around Us Pure Lecture - 1",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4406208/174956007294357555169/174956007294357555169_7555169.m3u8",
-      "notes": "#"
-    },
-    {
-      "title": "Is Matter Around Us Pure Lecture - 2",
-      "play": "https://player-harsh.netlify.app/player.html?link=https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4407492/174965677724307555169/174965677724307555169_7555169.m3u8",
-      "notes": "#"
+[
+  {
+    "title": "Matter in Our Surroundings Lecture - 1",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4373763/174653575278717555169/174653575278717555169_7555169.m3u8",
+    "notes": "#"
+  },
+  {
+    "title": "Matter in Our Surroundings Lecture - 2",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4375004/174663371989087555169/174663371989087555169_7555169.m3u8",
+    "notes": "#"
+  },
+  {
+    "title": "Matter in Our Surroundings Lecture - 3",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4379021/174705453261387555169/174705453261387555169_7555169.m3u8",
+    "notes": "#"
+  },
+  {
+    "title": "Matter in Our Surroundings Lecture - 4",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4380507/174714048756637555169/174714048756637555169_7555169.m3u8",
+    "notes": "#"
+  },
+  {
+    "title": "Matter in Our Surroundings Doubt Solving",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1qcficr3lu37x.cloudfront.net/file_library/videos/channel_vod_non_drm_hls/4381981/174723737820747555169/174723737820747555169_7555169.m3u8",
+    "notes": "#"
+  }
+]      "notes": "#"
     },
     {
       "title": "Is Matter Around Us Pure Lecture - 3",
